@@ -1,0 +1,18 @@
+.playlist ul {
+  padding: 0;
+  margin: 0;
+  width: fit-content;
+}
+.playlist ul li {
+  list-style-type: none;
+  padding: 10px;
+  background: aqua;
+  color: black;
+  cursor: pointer;
+}
+.playlist ul li.active {
+  background: coral;
+  color: blue;
+}
+
+/*# sourceMappingURL=style.css.map */

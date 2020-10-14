@@ -1,0 +1,19 @@
+{
+  "playlist": [
+    {
+      "name": "Thousand_Year_Love_Song",
+      "author": "DBSK",
+      "src" : "assets/music/K-POP/Thousand_Year_Love_Song.flac"
+    },
+    {
+      "name": "Thien_Ly_Chi_Ngoai",
+      "author": "Phí Ngọc Thanh",
+      "src" : "assets/music/K-POP/Thien_Ly_Chi_Ngoai.mp3"
+    },
+    {
+      "name": "Toki_Wo_Tomete",
+      "author": "DBSK",
+      "src" : "assets/music/K-POP/Toki_Wo_Tomete.m4a"
+    }
+  ]
+}

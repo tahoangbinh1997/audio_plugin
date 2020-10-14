@@ -1,0 +1,19 @@
+.playlist {
+  ul {
+    padding: 0;
+    margin: 0;
+    width: fit-content;
+    li {
+      list-style-type: none;
+      padding: 10px;
+      background: aqua;
+      color: black;
+      cursor: pointer;
+
+      &.active {
+        background: coral;
+        color: blue;
+      }
+    }
+  }
+}
